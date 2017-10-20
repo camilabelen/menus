@@ -1,0 +1,33 @@
+body{
+	font-family: sans-serif;
+	width: 1200px;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	line-height: 40px;
+}
+
+li{
+	height: 40px;
+	width: 150px;
+	margin: 0;
+	padding-left: 0px;
+	display: inline-block;
+	background-color:  #2e2e2a;
+	text-align: center;
+}
+
+a{
+	display: block;
+	width: 150px;
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover{
+	background-color: #f9a91a;
+	color: #000;
+}
